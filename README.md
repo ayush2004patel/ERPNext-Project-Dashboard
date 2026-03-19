@@ -13,6 +13,7 @@ A modern React-based project management dashboard integrated with ERPNext REST A
 Create `.env` file:
 
 VITE_API_BASE_URL=http://localhost:8000
+
 VITE_API_KEY=your_key
 VITE_API_SECRET=your_secret
 
